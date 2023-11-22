@@ -24,19 +24,12 @@ body h1{
   --fs-body:1.6rem; 
 }
 
-header{
-  display: flex;
-  justify-content:space-evenly;
-  align-items:baseline;
-}
 
 
-nav ul LI{
-  text-transform: uppercase;
-  font-size: var(--fs-heading-small);
-  font-size: 2rem;
+nav ul li{
 
-  margin:0 30px;
+  font-size: 1.6rem;
+
 }
 
 .logo img{
