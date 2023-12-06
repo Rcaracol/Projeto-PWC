@@ -136,26 +136,6 @@ button{
   transition-duration: .3s;
 }
 
-@media (max-width: 1114px) {
-
-  .row {
-    display: grid;
-    grid-template-columns: repeat(2, 1); /* Mostra 2 colunas */
-    gap: 20px; /* Espaçamento entre as colunas */
-  }
-
-  .col-md-2 {
-    width: auto;
-    max-width: calc(50% - 20px); /* Subtrai o espaço entre colunas */
-  }
-}
-
-@media (max-width: 768){
-  .card {
-    text-align: center;
-    width: 20rem;
-  }
-}
 
 @media (max-width: 930px){
  .banner{
