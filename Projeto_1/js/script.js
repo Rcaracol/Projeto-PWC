@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(){
-  //Função que preencher automaticamente o solecct com vários <option>
+  //Função que preencher automaticamente o solect com vários <option>
   //Função vai ser aquiiii
   fillBirthDateSelect();
 
